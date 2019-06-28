@@ -1,1 +1,1 @@
-# workbench
+<p align="center"><img src ="https://github.com/norcane/workbench/blob/master/assets/logo.png?raw=true" width="400" /></p>
